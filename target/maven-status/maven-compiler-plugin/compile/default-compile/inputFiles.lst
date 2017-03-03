@@ -1,0 +1,15 @@
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\util\IdentityUtility.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\dbstore\IdentityDaoDbStoreImpl.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\datamodel\Identity.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\filestore\IdentityDAOFileStoreImpl.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\dbstore\DBHelper.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\lauchers\Main.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\test\java\fr\tbr\iamcore\tests\identity\IdentityDAOXMLStoreImplTest.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\IdentityDAO.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\test\java\fr\tbr\iamcore\test\services\impl\filestore\IdentityDAOFileStoreImplTest.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\xmlstore\IdenityXMLHelperOld.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\xmlstore\IdentityXMLHelper.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\exception\IMCoreException.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\main\java\fr\tbr\iamcore\services\impl\xmlstore\IdentityDaoXMLStoreImpl.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\test\java\fr\tbr\iamcore\tests\services\impl\dbstore\IdentityDaoDbStoreImplTest.java
+C:\Dattaprasad\EPITA\Java\workspaces\AdJava_Project\IAMCore\src\test\java\fr\tbr\iamcore\tests\services\impl\dbstore\DBHelperTest.java

@@ -1,0 +1,15 @@
+fr\tbr\iamcore\services\impl\xmlstore\IdentityXMLHelper.class
+fr\tbr\iamcore\services\impl\dbstore\IdentityDaoDbStoreImpl.class
+fr\tbr\iamcore\tests\services\impl\dbstore\DBHelperTest.class
+fr\tbr\iamcore\services\impl\filestore\IdentityDAOFileStoreImpl.class
+fr\tbr\iamcore\datamodel\Identity.class
+fr\tbr\iamcore\tests\identity\IdentityDAOXMLStoreImplTest.class
+fr\tbr\iamcore\services\impl\dbstore\DBHelper.class
+fr\tbr\iamcore\lauchers\Main.class
+fr\tbr\iamcore\tests\services\impl\dbstore\IdentityDaoDbStoreImplTest.class
+fr\tbr\iamcore\services\exception\IMCoreException.class
+fr\tbr\iamcore\services\util\IdentityUtility.class
+fr\tbr\iamcore\services\impl\xmlstore\IdentityDaoXMLStoreImpl.class
+fr\tbr\iamcore\services\impl\xmlstore\IdenityXMLHelperOld.class
+fr\tbr\iamcore\test\services\impl\filestore\IdentityDAOFileStoreImplTest.class
+fr\tbr\iamcore\services\IdentityDAO.class

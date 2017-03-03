@@ -1,0 +1,11 @@
+fr.tbr.iamcore.datamodel
+fr.tbr.iamcore.lauchers
+fr.tbr.iamcore.services
+fr.tbr.iamcore.services.exception
+fr.tbr.iamcore.services.impl.dbstore
+fr.tbr.iamcore.services.impl.filestore
+fr.tbr.iamcore.services.impl.xmlstore
+fr.tbr.iamcore.services.util
+fr.tbr.iamcore.test.services.impl.filestore
+fr.tbr.iamcore.tests.identity
+fr.tbr.iamcore.tests.services.impl.dbstore
